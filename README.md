@@ -1,10 +1,6 @@
  #PHP-URL-Shortener-IP-Limit
 A Simple PHP Script for URL shortening tool. 
 
-/* 
-Author: Marc
-*/
-
 FEATURES
 
 - Uses Terraform to deploy an ASG for HA & Scaling Purposes
